@@ -1,0 +1,28 @@
+spriteTypes = { 
+	frameAnimatedSpriteType = {
+    	name = "GFX_Portrait_Burgundy_Alps_Himmler"
+    	texturefile = "gfx/leaders/BUA/Portrait_Burgundy_Alps_Himmler.dds"
+    	noOfFrames = 80
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+	}
+
+	frameAnimatedSpriteType = {
+    	name = "GFX_Portrait_Burgundy_Alsace_Himmler"
+    	texturefile = "gfx/leaders/BUA/Portrait_Burgundy_Alsace_Himmler.dds"
+    	noOfFrames = 80
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+	}
+
+	frameAnimatedSpriteType = {
+    	name = "GFX_Portrait_Brittany_Robins"
+    	texturefile = "gfx/leaders/BRI/Portrait_Brittany_Robins.dds"
+    	noOfFrames = 58
+		animation_rate_fps = 20
+		looping = yes
+		play_on_show = yes
+	}
+}

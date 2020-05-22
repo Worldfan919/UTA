@@ -1,0 +1,17 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = GFX_idea_APK_informal_feudalism
+		texturefile = "gfx/interface/ideas/APK_informal_feudalism.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_APK_leftist_legacy
+		texturefile = "gfx/interface/ideas/APK_leftist_legacy.dds"
+	}
+
+	spriteType = {
+		name = GFX_idea_NRT_smile
+		texturefile = "gfx/interface/ideas/NRT_smile.dds"
+	}
+}

@@ -1,0 +1,10 @@
+﻿spriteTypes = {
+	spriteType = { 
+		name = "GFX_2020"
+		texturefile = "gfx/interface/select_date_2020.dds"
+	}
+spriteType = { 
+ name = "GFX_hilal" 
+ texturefile = "gfx/interface/goals/GFX_report_hilal.dds" 
+ }
+}
