@@ -547,7 +547,7 @@
  STATE_546:0 "Tanganyika"
  STATE_547:0 "Kenya"
  STATE_548:0 "Uganda"
- STATE_549:0 "Sudan"
+ STATE_549:0 "Bahr el Ghazal"
  STATE_550:0 "Eritrea"
  STATE_551:0 "Khartoum"
  STATE_552:0 "Western Desert"
@@ -804,3 +804,4 @@
  STATE_803:0 "West Bank"
  STATE_804:0 "Zarqa"
  STATE_805:0 "Bahrain"
+ STATE_806:0 "Upper Nile"
