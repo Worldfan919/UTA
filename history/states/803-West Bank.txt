@@ -1,0 +1,23 @@
+
+state={
+	id=803
+	name="STATE_803" #Palestine
+	manpower = 933142
+	
+	state_category = rural
+
+	history={
+		owner = PAL
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			air_base = 4
+		}
+		add_core_of = PAL
+		add_core_of = ISR
+	}
+
+	provinces={
+		1 7107 7176 13236
+	}
+}

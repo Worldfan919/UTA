@@ -1,0 +1,39 @@
+spriteTypes = { 
+##Icon For: 1513989
+ SpriteType = { 
+ name = "GFX_lhistoiredelafrance" 
+ texturefile = "gfx/interface/goals/GFX_lhistoiredelafrance.tga" 
+ }##Icon For: 1513968
+ SpriteType = { 
+ name = "GFX_thedesolateeast" 
+ texturefile = "gfx/interface/goals/GFX_thedesolateeast.tga" 
+ }##Icon For: 1513967
+ SpriteType = { 
+ name = "GFX_aherosrestingplace" 
+ texturefile = "gfx/interface/goals/GFX_aherosrestingplace.tga" 
+ }##Icon For: 1513963
+ SpriteType = { 
+ name = "GFX_thefallenbehemoth" 
+ texturefile = "gfx/interface/goals/GFX_thefallenbehemoth.tga" 
+ }##Icon For: 1513961
+ SpriteType = { 
+ name = "GFX_monreausinfatuation" 
+ texturefile = "gfx/interface/goals/GFX_monreausinfatuation.tga" 
+ }##Icon For: 1513960
+ SpriteType = { 
+ name = "GFX_thelostcity" 
+ texturefile = "gfx/interface/goals/GFX_thelostcity.tga" 
+ }##Icon For: 1513958
+ SpriteType = { 
+ name = "GFX_expansionoftheorleanites" 
+ texturefile = "gfx/interface/goals/GFX_expansionoftheorleanites.tga" 
+ }##Icon For: 1513965
+ SpriteType = { 
+ name = "GFX_aculturedisappeared" 
+ texturefile = "gfx/interface/goals/GFX_aculturedisappeared.tga" 
+ }##Icon For: 1514410
+ SpriteType = { 
+ name = "GFX_bringfrenchidealshome" 
+ texturefile = "gfx/interface/goals/GFX_bringfrenchidealshome.tga" 
+ } 
+ }

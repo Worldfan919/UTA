@@ -1,0 +1,35 @@
+spriteTypes = { 
+##Icon For: 1577114
+ SpriteType = { 
+ name = "GFX_onlyprofit" 
+ texturefile = "gfx/interface/goals/GFX_onlyprofit.tga" 
+ }##Icon For: 1577115
+ SpriteType = { 
+ name = "GFX_theartofwarprofiteering" 
+ texturefile = "gfx/interface/goals/GFX_theartofwarprofiteering.tga" 
+ }##Icon For: 1577127
+ SpriteType = { 
+ name = "GFX_thekingsguard" 
+ texturefile = "gfx/interface/goals/GFX_thekingsguard.tga" 
+ }##Icon For: 1577129
+ SpriteType = { 
+ name = "GFX_europestradinghub" 
+ texturefile = "gfx/interface/goals/GFX_europestradinghub.tga" 
+ }##Icon For: 1577131
+ SpriteType = { 
+ name = "GFX_theoccitangambit" 
+ texturefile = "gfx/interface/goals/GFX_theoccitangambit.tga" 
+ }##Icon For: 1577132
+ SpriteType = { 
+ name = "GFX_lookingeast" 
+ texturefile = "gfx/interface/goals/GFX_lookingeast.tga" 
+ }##Icon For: 1577112
+ SpriteType = { 
+ name = "GFX_anationofchance" 
+ texturefile = "gfx/interface/goals/GFX_anationofchance.tga" 
+ }##Icon For: 1577113
+ SpriteType = { 
+ name = "GFX_nopolitics" 
+ texturefile = "gfx/interface/goals/GFX_nopolitics.tga" 
+ } 
+ }

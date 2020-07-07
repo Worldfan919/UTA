@@ -7,9 +7,9 @@
 
 ideologies = {
 
-	social_nationalist = {
+	national_bolshevist = {
 		types = {
-			social_nationalist_subtype = {} #generic
+			national_bolshevist_subtype = {} #generic
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_TOTALIST_1"
