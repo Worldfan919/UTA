@@ -1,0 +1,25 @@
+
+state={
+	id=549
+	name="STATE_549"
+	manpower = 153560
+	
+	state_category = rural
+	
+	
+	history={
+		victory_points = {
+			2096 1
+		}
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+		}
+
+	}
+
+	provinces={
+		1960 2016 4033 5060 8052 8084 10739 10764 10795 10827 10851 10857 10859 12744 
+	}
+}

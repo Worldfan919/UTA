@@ -1,4 +1,4 @@
-version="1.9.1"
+version="Alpha 1"
 tags={
 	"Alternative History"
 	"National Focuses"
@@ -7,4 +7,4 @@ tags={
 	"Ideologies"
 }
 name="Upon the Anvil"
-supported_version="1.9.1"
+supported_version="1.9.*"

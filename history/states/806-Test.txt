@@ -1,0 +1,23 @@
+state = {
+	id = 806
+	name = "STATE_806"
+	manpower = 2057500
+	
+	state_category = town
+	
+	
+	history={
+		victory_points = {
+			2096 1
+		}
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={
+		1914 1953 2096 4918 7996 10859 10877 10908 12800 12887
+	}
+}
